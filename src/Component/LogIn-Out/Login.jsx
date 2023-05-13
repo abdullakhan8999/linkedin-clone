@@ -10,7 +10,7 @@ function Login() {
         </a>
         <div>
           <Join>Join now</Join>
-          <SignIn>Join now</SignIn>
+          <SignIn>SignIn</SignIn>
         </div>
       </Nav>
       <Section>
